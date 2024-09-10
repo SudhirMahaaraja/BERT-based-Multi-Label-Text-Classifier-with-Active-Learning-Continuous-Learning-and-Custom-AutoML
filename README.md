@@ -81,7 +81,7 @@ The final model and tokenizer are saved to the model/ directory for later use.
 * Feedback: The model improves dynamically with new feedback files.
 
 ## License
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
+This project is licensed under the MIT License. 
 
 
 
