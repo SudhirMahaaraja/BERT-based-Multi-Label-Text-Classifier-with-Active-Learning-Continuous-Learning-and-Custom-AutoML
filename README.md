@@ -23,7 +23,7 @@ The dataset includes the following columns relevant to this model:
 * product_id: Unique identifier for the product.
 
 ## Download and Use
-* To download the dataset:https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data
+* To download the dataset: https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data
 * Place the amazon.csv file in the root directory of this project.
 
 ## Setup and Installation
